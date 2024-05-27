@@ -1,0 +1,15 @@
+{
+    "simple_valuation": {
+        "revenue_label": "3Y Average Revenue (£)",
+        "net_profit_label": "3Y Average Net Profit (£)"
+    },
+    "complex_valuation": {
+        "revenue_label": "Revenue (£)",
+        "net_profit_label": "Net Profit (£)",
+        "profit_before_tax_label": "Profit Before Tax (£)",
+        "interest_label": "Interest (£)",
+        "depreciation_label": "Depreciation (£)",
+        "amortisation_label": "Amortisation (£)",
+        "adjusted_profit_label": "Adjusted Profit (£)"
+    }
+}
