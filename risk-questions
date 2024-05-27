@@ -1,0 +1,15 @@
+{
+    "risk_questions": [
+        {
+            "question": "What is the risk level of your business?",
+            "weight": 0.5,
+            "default_value": 3
+        },
+        {
+            "question": "What is the secondary risk level of your business?",
+            "weight": 0.5,
+            "default_value": 3
+        }
+    ],
+    "adjustment_factor_per_10_percent": 2.5
+}
