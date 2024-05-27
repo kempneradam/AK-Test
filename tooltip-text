@@ -1,0 +1,10 @@
+{
+    "tooltips": {
+        "revenue": "Enter the total revenue for the specified year. This includes all income generated from your business operations.",
+        "net_profit": "Enter the net profit for the specified year. This is the profit remaining after all expenses have been deducted.",
+        "profit_before_tax": "Enter the profit before tax for the specified year. This is the profit before income tax has been deducted.",
+        "interest": "Enter the total interest expenses for the specified year.",
+        "depreciation": "Enter the total depreciation expenses for the specified year.",
+        "amortisation": "Enter the total amortisation expenses for the specified year."
+    }
+}
