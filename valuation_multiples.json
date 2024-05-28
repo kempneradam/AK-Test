@@ -1,31 +1,4 @@
 {
-    
-    "size_limits": {
-        "small": {
-            "min": 0,
-            "max": 5000000
-        },
-        "medium": {
-            "min": 5000001,
-            "max": 10000000
-        },
-        "large": {
-            "min": 10000001,
-            "max": 50000000
-        }
-    },
-    
-    "ranges": {
-        "simple": {
-            "lower": -10,  
-            "upper": 10    
-        },
-        "complex": {
-            "lower": -5,   
-            "upper": 5     
-        }
-    },
-    
     "manufacturing": {
         "simple": {
             "small": 3,
@@ -33,9 +6,9 @@
             "large": 3.25
         },
         "complex": {
-            "small": 3.1,
-            "medium": 3.2,
-            "large": 3.35
+            "small": 3,
+            "medium": 3,
+            "large": 3.25
         }
     },
     "industrial-services": {
@@ -45,9 +18,30 @@
             "large": 4.25
         },
         "complex": {
-            "small": 3.85,
-            "medium": 4.1,
-            "large": 4.35
+            "small": 3.75,
+            "medium": 4,
+            "large": 4.25
+        }
+    },
+    "ranges": {
+        "simple": {
+            "lower": -10,
+            "upper": 10
+        },
+        "complex": {
+            "lower": -10,
+            "upper": 10
+        }
+    },
+    "size_limits": {
+        "small": {
+            "max": 5000000
+        },
+        "medium": {
+            "max": 10000000
+        },
+        "large": {
+            "max": 50000000
         }
     }
 }
