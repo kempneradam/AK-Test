@@ -1,4 +1,5 @@
 {
+    // Size limits for categorizing revenue sizes
     "size_limits": {
         "small": {
             "min": 0,
@@ -13,14 +14,41 @@
             "max": 50000000
         }
     },
+    // Percentage ranges for valuation adjustments
+    // These percentages will be applied to the valuation multiple to calculate the lower and upper bounds
+    "ranges": {
+        "simple": {
+            "lower": -10,  // Lower bound percentage for simple valuation
+            "upper": 10    // Upper bound percentage for simple valuation
+        },
+        "complex": {
+            "lower": -5,   // Lower bound percentage for complex valuation
+            "upper": 5     // Upper bound percentage for complex valuation
+        }
+    },
+    // Valuation multiples for different industries and revenue sizes
     "manufacturing": {
-        "small": 3,
-        "medium": 3,
-        "large": 3.25
+        "simple": {
+            "small": 3,
+            "medium": 3,
+            "large": 3.25
+        },
+        "complex": {
+            "small": 3.1,
+            "medium": 3.2,
+            "large": 3.35
+        }
     },
     "industrial-services": {
-        "small": 3.75,
-        "medium": 4,
-        "large": 4.25
+        "simple": {
+            "small": 3.75,
+            "medium": 4,
+            "large": 4.25
+        },
+        "complex": {
+            "small": 3.85,
+            "medium": 4.1,
+            "large": 4.35
+        }
     }
 }
