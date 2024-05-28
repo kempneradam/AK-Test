@@ -22,26 +22,5 @@
             "medium": 4,
             "large": 4.25
         }
-    },
-    "ranges": {
-        "simple": {
-            "lower": -10,
-            "upper": 10
-        },
-        "complex": {
-            "lower": -10,
-            "upper": 10
-        }
-    },
-    "size_limits": {
-        "small": {
-            "max": 5000000
-        },
-        "medium": {
-            "max": 10000000
-        },
-        "large": {
-            "max": 50000000
-        }
     }
 }
