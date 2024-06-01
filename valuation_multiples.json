@@ -1,7 +1,7 @@
 {
     "manufacturing": {
         "simple": {
-            "small": 3,
+            "small": 2,
             "medium": 3,
             "large": 3.25
         },
