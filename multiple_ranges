@@ -1,7 +1,7 @@
 {
     "simple": {
-        "lower": -10,
-        "upper": 10
+        "lower": -15,
+        "upper": 15
     },
     "complex": {
         "lower": -10,
