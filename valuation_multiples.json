@@ -1,26 +1,254 @@
 {
-    "manufacturing": {
+    "agriculture": {
         "simple": {
-            "small": 2,
-            "medium": 3,
-            "large": 3.25
+            "small": 2.3815,
+            "medium": 3.18,
+            "large": 5.557
         },
         "complex": {
-            "small": 3,
-            "medium": 3,
-            "large": 3.25
+            "small": 2.3815,
+            "medium": 3.18,
+            "large": 5.557
         }
     },
-    "industrial-services": {
+    "business-services": {
         "simple": {
-            "small": 3.75,
-            "medium": 4,
-            "large": 4.25
+            "small": 2.645,
+            "medium": 3.53,
+            "large": 6.1717
         },
         "complex": {
-            "small": 3.75,
-            "medium": 4,
-            "large": 4.25
+            "small": 2.645,
+            "medium": 3.53,
+            "large": 6.1717
+        }
+    },
+    "construction": {
+        "simple": {
+            "small": 1.9423,
+            "medium": 2.59,
+            "large": 4.532
+        },
+        "complex": {
+            "small": 1.9423,
+            "medium": 2.59,
+            "large": 4.532
+        }
+    },
+    "consumer-services": {
+        "simple": {
+            "small": 2.5613,
+            "medium": 3.42,
+            "large": 5.9764
+        },
+        "complex": {
+            "small": 2.5613,
+            "medium": 3.42,
+            "large": 5.9764
+        }
+    },
+    "film-and-media": {
+        "simple": {
+            "small": 2.3802,
+            "medium": 3.17,
+            "large": 5.5539
+        },
+        "complex": {
+            "small": 2.3802,
+            "medium": 3.17,
+            "large": 5.5539
+        }
+    },
+    "finance": {
+        "simple": {
+            "small": 2.549,
+            "medium": 3.4,
+            "large": 5.9477
+        },
+        "complex": {
+            "small": 2.549,
+            "medium": 3.4,
+            "large": 5.9477
+        }
+    },
+    "food-services": {
+        "simple": {
+            "small": 2.74,
+            "medium": 3.65,
+            "large": 6.39
+        },
+        "complex": {
+            "small": 2.74,
+            "medium": 3.65,
+            "large": 6.39
+        }
+    },
+    "gaming-betting": {
+        "simple": {
+            "small": 2.29,
+            "medium": 3.05,
+            "large": 5.34
+        },
+        "complex": {
+            "small": 2.29,
+            "medium": 3.05,
+            "large": 5.34
+        }
+    },
+    "health-social-care": {
+        "simple": {
+            "small": 2.695,
+            "medium": 3.59,
+            "large": 6.2883
+        },
+        "complex": {
+            "small": 2.695,
+            "medium": 3.59,
+            "large": 6.2883
+        }
+    },
+    "insurance": {
+        "simple": {
+            "small": 2.67,
+            "medium": 3.56,
+            "large": 6.22
+        },
+        "complex": {
+            "small": 2.67,
+            "medium": 3.56,
+            "large": 6.22
+        }
+    },
+    "it-telecommunications": {
+        "simple": {
+            "small": 2.6216,
+            "medium": 3.5,
+            "large": 6.117
+        },
+        "complex": {
+            "small": 2.6216,
+            "medium": 3.5,
+            "large": 6.117
+        }
+    },
+    "manufacturing": {
+        "simple": {
+            "small": 2.6412,
+            "medium": 3.52,
+            "large": 6.1628
+        },
+        "complex": {
+            "small": 2.6412,
+            "medium": 3.52,
+            "large": 6.1628
+        }
+    },
+    "marketing-advertising": {
+        "simple": {
+            "small": 2.34,
+            "medium": 3.12,
+            "large": 5.45
+        },
+        "complex": {
+            "small": 2.34,
+            "medium": 3.12,
+            "large": 5.45
+        }
+    },
+    "mining": {
+        "simple": {
+            "small": 2.0474,
+            "medium": 2.73,
+            "large": 4.7772
+        },
+        "complex": {
+            "small": 2.0474,
+            "medium": 2.73,
+            "large": 4.7772
+        }
+    },
+    "professional-services": {
+        "simple": {
+            "small": 2.4387,
+            "medium": 3.25,
+            "large": 5.6902
+        },
+        "complex": {
+            "small": 2.4387,
+            "medium": 3.25,
+            "large": 5.6902
+        }
+    },
+    "property": {
+        "simple": {
+            "small": 2.5206,
+            "medium": 3.36,
+            "large": 5.8814
+        },
+        "complex": {
+            "small": 2.5206,
+            "medium": 3.36,
+            "large": 5.8814
+        }
+    },
+    "sports-and-leisure": {
+        "simple": {
+            "small": 2.5964,
+            "medium": 3.46,
+            "large": 6.0583
+        },
+        "complex": {
+            "small": 2.5964,
+            "medium": 3.46,
+            "large": 6.0583
+        }
+    },
+    "tourism-accommodation": {
+        "simple": {
+            "small": 2.8704,
+            "medium": 3.83,
+            "large": 6.6976
+        },
+        "complex": {
+            "small": 2.8704,
+            "medium": 3.83,
+            "large": 6.6976
+        }
+    },
+    "transport-logistics": {
+        "simple": {
+            "small": 2.2644,
+            "medium": 3.02,
+            "large": 5.2836
+        },
+        "complex": {
+            "small": 2.2644,
+            "medium": 3.02,
+            "large": 5.2836
+        }
+    },
+    "utilities": {
+        "simple": {
+            "small": 2.6024,
+            "medium": 3.47,
+            "large": 6.0724
+        },
+        "complex": {
+            "small": 2.6024,
+            "medium": 3.47,
+            "large": 6.0724
+        }
+    },
+    "vehicles": {
+        "simple": {
+            "small": 2.4349,
+            "medium": 3.25,
+            "large": 5.6815
+        },
+        "complex": {
+            "small": 2.4349,
+            "medium": 3.25,
+            "large": 5.6815
         }
     }
 }
