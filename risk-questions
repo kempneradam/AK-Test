@@ -1,13 +1,43 @@
 {
     "risk_questions": [
         {
-            "question": "What is the risk level of your business?",
-            "weight": 0.5,
+            "question": "The majority of my revenue comes from contracts or regularly recurring spend from repeat customers.",
+            "weight": 0.11,
             "default_value": 3
         },
         {
-            "question": "What is the secondary risk level of your business?",
-            "weight": 0.5,
+            "question": "Our relationships with key customers, suppliers and partners have been in-place for many years.",
+            "weight": 0.11,
+            "default_value": 3
+        },
+        {
+            "question": "The business operates as normal without my direct day-to-day involvement.",
+            "weight": 0.16,
+            "default_value": 3
+        },
+        {
+            "question": "Our workforce is long-serving and we have all the skills we need in-house to service our customers.",
+            "weight": 0.12,
+            "default_value": 3
+        },
+        {
+            "question": "We have standardised, documented operating procedures that our team consistently follow.",
+            "weight": 0.16,
+            "default_value": 3
+        },
+        {
+            "question": "We have the capacity and resources to take on additional client work to at least grow revenue by 20%.",
+            "weight": 0.12,
+            "default_value": 3
+        },
+        {
+            "question": "Our financial records are in good order, with clear sight of our growth, debt, and cashflow needs.",
+            "weight": 0.14,
+            "default_value": 3
+        },
+        {
+            "question": "Our position in the market is strong and we have competitive advantages that make it difficult for new entrants to compete.",
+            "weight": 0.09,
             "default_value": 3
         }
     ],
