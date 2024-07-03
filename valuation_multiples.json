@@ -239,6 +239,18 @@
             "large": 6.0724
         }
     },
+    "software": {
+        "simple": {
+            "small": 6,
+            "medium": 8,
+            "large": 12
+        },
+        "complex": {
+            "small": 6,
+            "medium": 8,
+            "large": 12
+        }
+    },
     "vehicles": {
         "simple": {
             "small": 2.4349,
